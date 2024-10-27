@@ -1,0 +1,3 @@
+String url = "jdbc:mysql://localhost:3306/car_connect";
+String user = "root";
+String password = "2511200100#Mons";
